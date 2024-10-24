@@ -13,7 +13,7 @@ Welcome to my GitHub profile! I'm a passionate developer with a love for creatin
 - **Twitter**: [@deli_geo7](https://x.com/deli_geo7)
 
 ## 🛠️ Technologies & Tools
-- **Languages**: HTML, CSS, JavaScript, Python
-- **Tools**: Git, GitHub, Visual Studio Code, Docker
+- **Languages**: HTML, CSS, JavaScript
+- **Tools**: Git, GitHub, Visual Studio Code
 
 Feel free to check out my repositories and connect with me! 🚀
