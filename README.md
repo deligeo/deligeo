@@ -1,16 +1,19 @@
 ## Hi there 👋
 
-<!--
-**deligeo/deligeo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub profile! I'm a passionate developer with a love for creating innovative solutions and exploring new technologies.
 
-Here are some ideas to get you started:
+## 🔭 Currently Working On
+- [GitHub Assignments]: This is about learning Git and GitHub
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🌱 I’m Learning
+- I’m currently diving into Git and GitHub! I’m exploring version control concepts, mastering commands, and understanding how to collaborate effectively on projects using these powerful tools.
+
+## 📫 How to Reach Me
+- GitHub: [https://github.com/deligeo]
+- Twitter: [https://x.com/deli_geo7]
+
+## 🛠️ Technologies & Tools
+- Languages: [HTML, CSS, JavaScript]
+- Tools: [Git]
+
+Feel free to check out my repositories and connect with me! 🚀
