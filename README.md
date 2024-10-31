@@ -15,9 +15,15 @@ Welcome to my GitHub profile! I’m a passionate developer with a knack for buil
 ![Adobe XD](https://img.shields.io/badge/Adobe%20XD-470137?style=for-the-badge&logo=Adobe%20XD&logoColor=#FF61F6)
 
 ## 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=radical)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&theme=radical&layout=compact)
+<div style="color: #FFD700;">
+    <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical" /><br/>
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=radical" /><br/>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&theme=radical&layout=compact" />
+</div>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=yourusername&icon=0&color=3)](https://visitcount.itsvg.in)
+<div style="color: #FFD700;">
+    <a href="https://visitcount.itsvg.in">
+        <img src="https://visitcount.itsvg.in/api?id=yourusername&icon=0&color=3" style="color: #FFD700;" />
+    </a>
+</div>
