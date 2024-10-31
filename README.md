@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Delna</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate frontend developer</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ppp&label=Profile%20views&color=0e75b6&style=flat" alt="ppp" /> </p>
+<p align="left"> <img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=twitter&logoColor=white" alt="ppp" /> </p>
 
 - 🔭 I’m currently working on **Assignment 3**
 
