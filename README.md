@@ -12,11 +12,14 @@ Welcome to my GitHub profile! I’m a passionate developer with a knack for buil
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) 
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) 
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![Adobe XD](https://img.shields.io/badge/Adobe%20XD-470137?style=for-the-badge&logo=Adobe%20XD&logoColor=#FF61F6)
 
 ## 📊 GitHub Stats:
+<div style="color: #4CAF50;">
 ![](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=radical)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&theme=radical&layout=compact)
 
----
+## 👀 Profile Views:
+<div style="color: #FF5722;">
 [![](https://visitcount.itsvg.in/api?id=yourusername&icon=0&color=3)](https://visitcount.itsvg.in)
